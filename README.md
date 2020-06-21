@@ -2,6 +2,10 @@
 
 ---
 
+### Per the recommendation of this README, I'll be implementing my project [here](https://github.com/phillybenh/Conway-Game-of-Life-App).
+
+---
+
 **NOTE: This is not a data science project.** If you're in the data
 science track and want to do a DS-specific project, jump to the [Data
 Science Build Week
